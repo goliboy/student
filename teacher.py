@@ -1,7 +1,10 @@
 name=str(input ("enter teacher name:"))
-sub=str(input("enter teacher subject:"))
+sub1=str(input("enter teacher subject:"))
+sub2=str(input("enter teacher subject:"))
 code=str(input("enter subject code:"))
 
+
 print(f"name:,{name}")
-print(f"subject:{sub}")
+print(f"subject:{sub1}")
+print(f"subject:{sub2}")
 print(f"code is :{code}")
